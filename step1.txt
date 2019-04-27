@@ -11,3 +11,11 @@
 8. git add <filename>
 9. git submit -m "comment"
 10. git push origin master
+
+
+//working dictionary and staged 
+
+1. use git add to add the data to staged
+2. use git status to make sure all data in staged
+3. use git log <--pretty=oneline> to check submit history
+4. use git reset --hard HEAD^ to recovery from submitted files 
