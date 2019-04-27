@@ -2,6 +2,12 @@
 2. get rsa_pub and copy to github
 3. git config --global user.name "your name"
 4. git config --global user.email "your_email@youremail.com"
-5. git clone git@github.com:yourName/yourRepo.git
+5. git clone git@github.com:SuperRxan/gitskills.git
+6. git remote add origin git@github.com:SuperRxan/gitskills.git
 
-6. vim .git/config and change the git config values
+7. vim .git/config and change the git config values
+
+
+8. git add <filename>
+9. git submit -m "comment"
+10. git push origin master
