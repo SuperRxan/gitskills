@@ -9,7 +9,7 @@
 
 
 8. git add <filename>
-9. git submit -m "comment"
+9. git commit -m "comment"
 10. git push origin master
 
 
@@ -19,3 +19,19 @@
 2. use git status to make sure all data in staged
 3. use git log <--pretty=oneline> to check submit history
 4. use git reset --hard HEAD^ to recovery from submitted files 
+
+
+// management the modified
+
+1. use git diff HEAD -- readme.txt  to check the diff between working area and repositiory
+2. use git checkout -- readme.txt to discard changes in working directory
+3. use git reset HEAD <file> to  discard changes in staged directory
+
+// delete file in git 
+
+to delete file totally
+1. git rm test.txt
+2. fit commit -m "remove test.txt"
+
+to restore file for unexpected file 
+1.  git checkout -- test.txt
