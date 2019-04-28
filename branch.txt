@@ -1,0 +1,14 @@
+//branch management 
+1. git checkout -b dev 
+   create and switched to a new branch 'dev'
+   
+   $ git branch dev
+   $ git checkout dev
+   Switched to branch 'dev'
+
+2. git branch check the branchs
+
+3. git merge dev   merge specific branch to current branch
+
+4. git branch -d dev   delete specific branch
+
