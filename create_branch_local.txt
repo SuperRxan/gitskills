@@ -1,1 +1,2 @@
 1. git checkout -b dev 
+2. git stash [test git stash] 
