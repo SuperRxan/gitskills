@@ -1,3 +1,9 @@
 1. git stash
 2. git pull
 3. git stash pop
+
+4. git reset [options]
+	--mixed(default):keep all difference in working area
+        --soft: keep working area and staged area, the difference in staged area
+        --hard: discard all changes
+	
