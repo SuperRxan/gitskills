@@ -7,3 +7,17 @@
 4. remote master create same file as local, test git pull
 
 5. git push local
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. update by others in orion dev, so the commit become diversed.
