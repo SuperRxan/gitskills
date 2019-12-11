@@ -1,3 +1,5 @@
 1. git stash
 2. git pull
 3. git stash pop
+
+3. git stash the unstaged file
