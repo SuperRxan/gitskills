@@ -3,3 +3,5 @@
 3. git stash pop
 
 3. git stash the unstaged file
+
+4. remote master create same file as local, test git pull
