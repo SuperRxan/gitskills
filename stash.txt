@@ -11,5 +11,3 @@
 ============================================================
 
 6. commit in local while orion follow behind
-
-7. update by others in orion dev, so the commit become diversed.
