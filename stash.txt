@@ -8,6 +8,16 @@
 
 5. git push local
 
-============================================================
 
-6. commit in local while orion follow behind
+
+
+
+
+
+
+
+
+
+
+
+6. update by others in orion dev, so the commit become diversed.
