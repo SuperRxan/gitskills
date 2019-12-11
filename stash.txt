@@ -6,4 +6,4 @@
 
 4. remote master create same file as local, test git pull
 
-5. git local
+5. git push local
