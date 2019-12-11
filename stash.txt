@@ -7,3 +7,7 @@
 4. remote master create same file as local, test git pull
 
 5. git push local
+
+============================================================
+
+6. commit in local while orion follow behind
