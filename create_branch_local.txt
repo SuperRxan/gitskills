@@ -1,4 +1,4 @@
 1. git checkout -b dev 
 2. git stash [test git stash] 
 3. git pull [in working area, git pull will automaticlly merge]
-4. git pull [in stageing area, git pull ?]
+4. git pull [in stageing area, git pull will fail]
